@@ -1,0 +1,35 @@
+{
+  "name": "pomonote",
+  "version": "0.0.1",
+  "description": "Note for Pomodoro!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:toku345/pomonote.git"
+  },
+  "keywords": [
+    "pomodoro"
+  ],
+  "author": "toku345",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toku345/pomonote/issues"
+  },
+  "homepage": "https://github.com/toku345/pomonote#readme",
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.5",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.2"
+  },
+  "dependencies": {
+    "flummox": "^3.5.2",
+    "lodash.assign": "^3.2.0",
+    "react": "^0.13.3"
+  }
+}
